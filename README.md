@@ -6,6 +6,16 @@
 
 A comprehensive web vulnerability scanning toolkit featuring multiple scanning modules and a test environment, designed for security professionals and developers.
 
+## Project Benefits Summary
+This simple project offers several key advantages:
+
+- Automated Vulnerability Detection: It enables simultaneous detection of multiple vulnerabilities, significantly increasing work efficiency.
+
+- Report Generation: The project can generate a preliminary report, providing a foundation for consultants to enhance and finalize their findings.
+
+- Enhanced Productivity: It assists security consultants in completing tests and report writing more quickly and conveniently.
+
+
 ## 📁 Project Structure
 ```
 automatic_scan_tools/
